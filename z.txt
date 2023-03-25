@@ -1,0 +1,160 @@
+Electromagnetic force method of pre-determination of voltage regulation is also known as  synchronous ________ method.	Inductance
+ Magneto motive force method of pre-determination of voltage regulation is also known as  ______ method.	ampere turns
+Potier method of pre-determination of voltage regulation is also known as ______ power factor method.	zero
+According to Faraday’s laws of electromagnetic induction, S1. when flux linking a conductor coil changes, an emf is induced.  S2. Amount of emf induced in a conducting coil is directly proportional to the rate of change of flux linked by the coil	both statements are correct
+The number of poles of a machine is given as 80 and the number of cycles per second   is given as 50, then the speed  for the same number of cycles if the speed is 75 revolutions per second, then theof the machine is _______ revolutions     number of poles is ______ .per minute, and	
+	
+    ________ can be used as prime mover for alternators.	All three
+The ratio of electrical to mechanical degree ( θc / θm ) is ______	half the number of poles.
+For a single layer, concentrated, integral slot winding, the value of m is ______	one
+The minimum number of windings that are placed in a slot for a double-layer, short pitch, distributed type of winding is ______	two
+The above said are _________ of _________ coils	advantages, short-pitch   
+The ratio between the phasor sum of induced emf in two coil sides and the arithmetic sum of induced emf in two coil sides is known as ________ factor.	 pitch factor
+The winding factor is the product of ______ factor and ________ factor.	distribution, pitch
+Voltage regulation of an alternator is the ratio between _____________	 the rise in voltage and terminal voltage at load
+The main disadvantage of using short-pitch winding in alternator is that it ___	reduces the voltage around the armature coils               
+Three-phase  alternators are invariably Y-connected because  __________	 higher terminal voltage is obtained   
+ Regarding distribution factor of an armature winding of an alternator which statement is false?	 higher its value, higher e.m.f induced per phase 
+When speed of an alternator is changed from 3600 r.p.m. to 1800 r.p.m., the generated e.m.f./phase will become _________	one half  
+The magnitude of the three voltage drops in an alternator due to armature   resistance, leakage reactance and armature reaction is solely determined by  ____	load current Ia      
+Under no-load condition, power drawn by the prime mover of an alternator goes to __	meet no load loss       
+As load p.f. of  an alternator becomes more leading, the value of generated voltage required to give rated terminal voltage ______	decreases  
+With a load p.f. of unity, the effect of armature reaction on the main-field flux of an   alternator is ____	distortional  
+At lagging loads, armature reaction in an alternator is ______	magnetizing 
+For proper parallel operation , a.c. poly-phase alternators must have the same ___	voltage rating    
+Of the following conditions, the one which does NOT have to be met by alternators working in parallel is  _______	 the machines must have equal ratings. 
+After wiring up two 3-Φ alternators, you checked their frequency and voltage and   found them to be equal. Before connecting them in paralled, you would ______	check phase rotation     
+Zero power factor method of an alternator is used to find its _____	 armature regulation          
+Some engineers prefer ‘lamps bright’ synchronization to ‘lamps dark’      . synchronization because	 it gives sharper and more accurate synchronization
+It is never advisable to connect a stationary alternator to live bus-bars because it __	 will get short-circuited
+Two identical alternators are running in parallel and carry equal loads. If excitation of    one alternator is increased without changing its steam supply, then _____	 it will keep supplying almost the same load    
+ Keeping its excitation constant, if steam supply of an alternator running in parallel  with another identical alternator  is increased, then	 it would over-run the other alternator          
+ The load sharing between two steam-driven alternators operating in parallel may be  varying the _____	steam supply to their prime movers                  
+Squirrel-cage bars placed in the rotor pole faces of an alternator help reduce  hunting _____	above and below synchronous speed both             
+For a machine on infinite bus active power can be varied by _____	changing of prime cover speed
+In a synchronous motor, damper winding is provided in order to ______	both (b) and (c ) 
+In a synchronous motor, the magnitude of stator back e.m.f. En depends on ____	 dc excitation only.
+An electric motor in which both the rotor and stator fields rotates with the same speed is called a/an.____ motor.	synchronous
+ while running a Synchronous motor is compelled to run at Synchronous speed because of _______	magnetic locking between stator and rotor poles
+The direction of rotation of a Synchronous motor can be reversed by reversing __	 supply phase sequence
+When running under no-load condition and with normal excitation, armature current Ia drawn by a Synchronous motor _________	lags the applied voltage V by a small angle
+The angle between the Synchronously-roating stator flux and rotor poles of a Synchronous motor is called _________ angle.	 synchronizing
+A Synchronous motor running with normal excitation adjusts to load increase essentially by increase in its ___	armature current.
+When load on a Synchronous motor running with normal excitation is increased,  armature current drawn by it increase because _____	net resultant voltage Er in armature is increased
+When load on a normally-excited Synchronous motor is increased, its power factor tends to ____	 become increasingly lagging
+The effect of increasing load on a Synchronous motor running with normal excitation is to ____	increase Ia but decrease p.f.
+Ignoring the effects of armature reaction, if excitation of a Synchronous motor running with constant load is increased, its torque angle must necessarily ___	 decrease
+Ignoring the effect of armature reaction, if excitation of a Synchronous motor running with constant load is decreased from its normal value, it leads to  ___	 increase in both Ia and φ
+A Synchronous motor connected to infinite bus-bars has at constant full-load, 100% excitation and unity p.f. on changing the excitation only, the armature current will have _____	  leading p.f. with under-excitation
+The V-curves of a Synchronous motor show relationship between _____	 dc field current and ac armature current
+When load on a Synchronous motor is increased, its armature currents is increased provided it is _____	All three
+If main field current of a salient-pole Synchronous motor fed from an infinite bus and running at no-load is reduced to zero, it would _____	continue running at Synchronous speed
+In a Synchronous machine when the rotor speed becomes more than the Synchronous speed during hunting, the damping bars develop ____	induction generator torque 
+In a Synchronous motor, the rotor Copper losses are met by _______	d.c. source
+A Synchronous machine is called a doubly-excited machine because _______	 both its rotor and stator are excited
+Synchronous capacitor is _____	 an over-excited Synchronous motor running without mechanical load
+Which of the following are the different torques of synchronous motor ?	pull-in torque and pull-out torque
+A Synchronous machine is called a doubly-excited machine because _______	a)      both its rotor and stator are excited 
+The phase of emf induced in the armature of a synchronous motor depends upon 	load.
+A 3 - Φ synchronous motor has 	no starting torque
+Synchronous motors generally have	salient pole rotor
+Number of slip rings in a synchronous motor will be	2
+An ideal synchronous motor has no starting torque because the	relative velocity between the stator and the rotor mmfs is zero
+In a synchronous motor the magnitude of field flux 	remains constant at all loads
+What is the angle between the induced voltage and supply voltage of a synchronous motor under running condition?	Between 90° and 180°
+The armature electric current of a synchronous motor on no load	leads the applied voltage by 90°
+Slip exists in 	induction motor 
+What happens when DC supply is given to rotor in induction motor ? 	It acts as synchronous motor 
+The principal of starting of 3 - Φ IM is similar to 	transformer with short-circuited secondary
+If the air gap of IM is increased, ____________ will increase	magnetizing current  
+An IM cannot run at synchronous speed because 	rotor torque will not be produced
+How can the synchronous speed of a 3 - Φ IM be varied? 	Both (A) and (B
+In a 3 - Φ induction motor running at full load which of these parameters is stationary with respect to the stator mmf wave? 	Rotor mmf wave
+A 3 - Φ, 6 pole, 50 Hz IM has a rotor speed of 987 rpm find rotor frequency? 	0.65 Hz
+What does happen if tripled harmonics given to induction motor? 	Fail to start
+Considering a galvanometer is connected to the rotor of a 3 - Φ, 4 pole, 50 Hz IM and is making 130 oscillations in a minute, then calculate the rotor speed? 	1435
+The reduced air gap results in an increase 	power factor
+Rotating magnetic field is produced in an induction motor because of 	stator winding
+Air gap flux density is of the order of 	0.35 - 0.5 T
+Under operating conditions the rotor conductor should be _________________ in induction motor	always closed
+The synchronous speed of an induction motor will be increased by	increasing of frequency 
+When the rotor of a 3 phase induction motor is blocked then the slip is 	0.4
+In induction motor the 7th harmonic torque may make the motor rotate at (1 / 7)th synchronous speed. This is called 	crawling
+In induction motor especially the cage rotors slots are nearly parallel to shaft axis. This is called 	skewing
+If the number of rotor slots is equal to number of stator slots, then motor refuses to start. Hence it is known as 	cogging
+In IM the rotor lamination can be ________________ than stator laminations	thicker
+In induction motor wound rotor motor is mainly is used in application where 	high starting torque
+The slip of an induction motor normally does not depend on	
+A 3 - Φ, 4 pole, 50 Hz induction motor 4 % slip, calculate frequency of the rotor emf? 	2 Hz
+In double cage induction motor, the inner cage offers 	low resistance and high reactance
+In double cage induction motor, the outer cage offers 	high resistance and low reactance
+Which of the following induction motor has maximum speed?	2 pole
+High starting torque and low starting current is the advantage of 	slip ring induction motor
+The air gap between stator and the rotor of the 3 - Φ induction motor is kept 	as small as possible
+What is power factor of a 3 - Φ induction motor at no load? 	Low
+For a 3 - Φ, 4 pole, 50 Hz IM rotating at full load speed of 1440 rpm, calculate speed of rotor field with respect to rotor structure and stator structure respectively? 	60, 1500
+During no load test, an induction motor draws power 	for core loss and windage and friction loss
+Unbalanced supply voltage given to a 3 - Φ, delta connected induction motor will cause 	negative sequence current.
+Exciting current of an induction motor is 	higher than power transformer.
+If starting current of a 3 - Φ induction motor is 5 times the rated current, while rated slip is 4 %, then ratio of starting torque to full load torque is 	1
+In travelling cranes for 'hoisting and lowering' which type of motor is preferred? 	AC slip ring motor
+In travelling cranes for swing action which motor is preferred? 	AC slip ring IM
+Which of following motor is preferred for belt conveyor? 	Slip ring induction motor
+Which motors are prefer for refrigeration and air conditioning in larger units? 	 Slip induction motor.
+The starting current of a 3 phase induction motor is 5 times the full-load current  and its full-load slip is 4%.The approximate ratio of starting torque to full-load   torque is _______	1
+A 2.2 kW, 415 V, three phase motor with a full load current of 4 A can be  started _______	directly without starter
+In stare-delta starting of 3 phase induction motors, compared to direct on-line  starting, the respective reduction in starting line current and starting torque are  given by the factors, ____	1/ 3, 1/ 3
+In Auto-transformer starting of a 3 phase induction motor the stator voltage  applied is reduced by a factor K, Compared to DOL starting, the respective reduction in starting line current and starting torque are given by the factors,_____	k2, K2  
+A 3 phase induction motor having a full-load slip of 3 % takes 8 times the full-load current under blocked rotor condition with normal voltage. The ratio of  starting torque to full-load torque when started by a DOL starter is _____	1.92
+A 3 phase induction motor having a full-load slip of 3 % takes a 8 times the full-load current under blocked rotor condition with normal voltage. The ratio of starting torque to full-load torque when started by a auto-transformer  starter with 70 % tapping is _____	0.94
+A star-connected, 11kW, 3 phase squirrel-cage induction motor is usually started by _____.	auto-transformer starter
+A delta-connected, 11kW, 3 phase squirrel-cage induction motor is usually started by ____	star-delta starter
+A delta-connected, 0.37kW, 3 phase squirrel-cage induction motor is usually started by ____	DOL starter
+A delta-connected, 110kW, 3 phase slip-ring induction motor is usually started by _____	rotor resistance starter
+The suitable method to control the speed of a 3 phase induction motor over a  wide range is _________	line frequency control
+Addition of external resistance in the rotor circuit of 3 phase slip-ring induction motor during running condition causes its __	speed to decrease
+In starters, UVRC stands for  _____	under voltage release coil
+In starters, OLRC stands for  _____	over load release coil
+In starters, the switches NO means _______	normally open
+In starters, the switches NC means _______	normally closed
+In an induction motor, the rotor power input, speed and torque __________	are directly proportional  to each other
+By addition of a resistance in series with the rotor of an induction motor at  starting _____________	starting torque increases
+A 3 phase induction motor connected in star draws 5 A when connected at delta it will draw a current of _____________	 5√3 A
+The disadvantage of starting  an induction motor with a star delta starter is that ________	the starting torque is 1/3rd of the torque in delta connection
+For smooth starting torque of a  3phase squirrel cage induction motor the  following starting method is preferred _________	auto transformer
+Starting torque of a slip ring induction motor may be increased by ____	adding resistance to rotor
+Starters are used in induction motor because ________	its starting current is 5 times or more than its rated current       
+In automatic star-delta starter, the switchgear used for changeover is _____	electro-magnetic contactors 
+The starter recommended for 3-phase induction motors rated up to 5 HP  is  ______	DOL starter
+In  which method of starting an induction motor is expected to take largest starting current ?	Direct on line starting
+. If a 3 phase induction motor needs frequent starting and operation in forward  and reverse directions, which type of starter will be preferred?	Star delta
+Various methods for starting a 3 phase induction motor are given. Which method requires six stator terminals?	Star – delta
+A 3 phase slip ring induction motor can be started with which of the following starter?	 Stator / rotor starter
+Type of single phase motor having highest power factor at full load is 	capacitor run
+Capacitor start capacitor run provides 	high staring torque and high power factor
+Capacitor fitted with ceiling / table fans is of the value of 	2 - 3 μF
+Which 1 - Φ motor does operate at high power factor? 	capacitor run
+A stepper motor may be considered as a ………….. converter	digital to analog             
+Wave excitation of a stepper motor results in	half-stepping
+A stepper motor having a resolution of 300 steps/rev and running at 2400 rpm has a  pulse rate of……. Pulse/ sec	6000
+A variable reluctance stepper motor is constructed of ….. material with salient poles	ferromagnetic
+A stepper motor is …….. device	incremental
+What is the step angle of a permanent-magnet stepper motor having 8 stator poles and  4 rotor poles?	45o
+A brushless DC motor having	not having all  the above
+In a BLDC, the rotor position sensor is used 	to send the signal to the electronic commutator         
+Which of the following statements with regard to BLDC motor is not true?	self starting is not possible
+The rotor of the BLDC motor has	permanent magnet   
+Which of the following statements with regard to switched reluctance motor is not ture?	no rotor position sensor
+Advantages of switched reluctance motor are	all of the above
+A reluctance motor	is constant speed and self starting
+For which of the applications a reluctance motor is preferred?	signaling and timing devices 
+Which type of motor is most suitable for a computer printer derive? 	stepper motor
+The stator and rotor pole number may be different in a	reluctance motor
+Which of the following statements with regard to reluctance motor is not true?	can operate on ac as well dc
+A motor suitable for signaling device is 	reluctance motor
+Which of the following single-phase motor is suitable for timing and control purpose?	reluctance motor
+In double revolving theory of single phase induction motor, the slip of  the forward motor is S then the slip of the backward motor is ______	2 - S
+The torque of a single phase induction motor at synchronous speed is ________	negative
+In case of a split-phase motor, the phase shift between currents in the two windings  is around ________	30°
+Centrifugal switch fitted on the rotor of a single-phase induction motor will operate  when ______	rotor speed exceeds 70 percentage of  its rated value
+The torque–speed characteristics of two phase induction motor is largely affected by _____	reactance / resistance ratio
